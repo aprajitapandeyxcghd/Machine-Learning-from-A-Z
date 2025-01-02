@@ -1,1 +1,10 @@
-
+Implemented basic CRUD fundamentals such as:
+1. Reading from a csv dataset.
+2. Creating from a dictionary.
+3. Display rows and columns
+4. Display the summary statistics. 
+5. Filter rows and columns.
+6. Exploratary Data Analysis.
+7. Indexing with iloc and loc. 
+8. Updating and amending information in the rows and columns using the apply function. 
+9. Deleting and renaming the files for the output section.
